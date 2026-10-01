@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# private writing: never commit
+data/my_writing/
+
+# large files
+data/corpus/
+checkpoints/
+*.pt
